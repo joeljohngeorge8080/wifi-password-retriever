@@ -1,0 +1,5 @@
+Wi-Fi Name: MyHomeWiFi
+Password: mysecretpassword
+
+Wi-Fi Name: CollegeWiFi
+Password: 12345678
