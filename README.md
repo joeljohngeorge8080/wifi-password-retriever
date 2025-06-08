@@ -28,6 +28,6 @@ Download from: https://www.python.org/downloads/
 ### 2. Save the Script
 Save the file as `wifi_passwords.py`
 
-### 3. Open Command Prompt and Run:
+### 3. Open Command Prompt with Administrative Permission and Run:
 ```bash
 python wifi_passwords.py
