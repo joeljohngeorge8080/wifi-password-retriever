@@ -30,4 +30,4 @@ Save the file as `wifi_passwords.py`
 
 ### 3. Open Command Prompt with Administrative Permission and Run:
 ```bash
-python wifi_passwords.py
+python wifi-passwords.py
